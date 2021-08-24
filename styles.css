@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+
+.horizontal-list{
+    list-style: none;
+    padding-left: 0px;
+    text-align: right;
+}
+
+.horizontal-list li{
+    display: inline-block;
+    margin: 0px 8px 8px 0px;
+}
+
+.horizontal-list li a{
+    text-decoration: none;
+}
+
+nav{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background: blue;
+    height: 80px;
+}
